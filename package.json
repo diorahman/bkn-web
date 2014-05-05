@@ -1,6 +1,6 @@
 {
   "name": "bkn-web",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bkn cheerio http interface",
   "main": "index.js",
   "scripts": {
