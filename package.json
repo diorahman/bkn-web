@@ -17,11 +17,20 @@
   "author": "Dhi Aurrahman <diorahman@rockybars.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "~4.1.1"
+    "express": "~4.1.1",
+    "bkn-cheerio": "0.0.1"
   },
   "devDependencies": {
     "mocha": "~1.18.2",
     "should": "^3.3.1",
     "supertest": "^0.12.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diorahman/bkn-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diorahman/bkn-web/issues"
+  },
+  "homepage": "https://github.com/diorahman/bkn-web"
 }
