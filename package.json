@@ -1,0 +1,27 @@
+{
+  "name": "bkn-web",
+  "version": "0.0.1",
+  "description": "bkn cheerio http interface",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "make test"
+  },
+  "keywords": [
+    "bkn",
+    "pegawai",
+    "negeri",
+    "sipil",
+    "indonesia"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.1.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "^3.3.1",
+    "supertest": "^0.12.0"
+  }
+}

@@ -1,0 +1,5 @@
+# servis BKN
+
+```
+$ npm start
+```
